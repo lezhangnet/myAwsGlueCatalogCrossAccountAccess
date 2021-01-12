@@ -1,0 +1,2 @@
+source: https://aws.amazon.com/blogs/big-data/cross-account-aws-glue-data-catalog-access-with-amazon-athena/
+stack created with cross_account_xxx.yaml from https://aws-bigdata-blog.s3.amazonaws.com/artifacts/aws-blog-cross-account-athena/cross_account_athena_stack.yaml
